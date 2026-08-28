@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1095-find-in-mountain-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/2305-fair-distribution-of-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0410-split-array-largest-sum) |
+| [2305-fair-distribution-of-cookies](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/2305-fair-distribution-of-cookies) |
 ## Greedy
 |  |
 | ------- |
@@ -37,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0410-split-array-largest-sum) |
+## Backtracking
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/2305-fair-distribution-of-cookies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/2305-fair-distribution-of-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
