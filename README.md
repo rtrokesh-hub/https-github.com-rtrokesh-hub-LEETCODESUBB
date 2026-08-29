@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0069-sqrtx) |
 | [0410-split-array-largest-sum](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1095-find-in-mountain-array) |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/2305-fair-distribution-of-cookies) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
