@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1095-find-in-mountain-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1095-find-in-mountain-array) |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
