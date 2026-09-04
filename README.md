@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1095-find-in-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1539-kth-missing-positive-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/2305-fair-distribution-of-cookies) |
 ## Binary Search
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0441-arranging-coins) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1095-find-in-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
