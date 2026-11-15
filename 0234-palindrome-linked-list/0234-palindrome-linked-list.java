@@ -9,82 +9,77 @@
  * }
  */
 class Solution {
-        public boolean isPalindrome(ListNode head) {
+    public boolean isPalindrome(ListNode head) {
+        
+      ListNode left ;
+      ListNode right;
 
-                if (head == null || head.next == null) {
-                            return true;
-                                    }
+      int val = mid(head) ;
 
-                                            int val = mid(head);
+      if((val % 2) == 0) {
+         left = node(head, (val / 2) );
+         right = node(head, (val / 2) + 1);
+      }
+      else {
+        left = node(head, (val / 2) );
+        right = node(head, (val / 2) + 2);
+      }
 
-                                                    ListNode left;
-                                                            ListNode right;
+      left.next = null;
 
-                                                                    if (val % 2 == 0) {
-                                                                                left = node(head, val / 2);
-                                                                                            right = node(head, (val / 2) + 1);
-                                                                                                    } else {
-                                                                                                                left = node(head, val / 2);
-                                                                                                                            right = node(head, (val / 2) + 2);
-                                                                                                                                    }
+      ListNode prev = null;
+    
+      ListNode curr = right;
 
-                                                                                                                                            left.next = null;
+      while(curr != null) {
 
-                                                                                                                                                    ListNode prev = null;
-                                                                                                                                                            ListNode curr = right;
+            ListNode next = curr.next;
 
-                                                                                                                                                                    // Reverse the second half
-                                                                                                                                                                            while (curr != null) {
+            curr.next = prev;
+           prev = curr;
+           curr = next;
+      }
 
-                                                                                                                                                                                        ListNode next = curr.next;
+      ListNode begin = prev;
+      ListNode c = head;
 
-                                                                                                                                                                                                    curr.next = prev;
+      while(begin != null && c != null) {
 
-                                                                                                                                                                                                                prev = curr;
-                                                                                                                                                                                                                            curr = next;
-                                                                                                                                                                                                                                    }
+        if(begin.val != c.val) {
+            return false;
+        }
+        begin = begin.next;
+        c = c.next;
+      }
 
-                                                                                                                                                                                                                                            ListNode begin = prev;
-                                                                                                                                                                                                                                                    ListNode c = head;
+      return true;
+      
+      }
 
-                                                                                                                                                                                                                                                            // Compare both halves
-                                                                                                                                                                                                                                                                    while (begin != null && c != null) {
+    public int mid(ListNode head) {
 
-                                                                                                                                                                                                                                                                                if (begin.val != c.val) {
-                                                                                                                                                                                                                                                                                                return false;
-                                                                                                                                                                                                                                                                                                            }
+        int count = 0;
+        
+        ListNode curr = head;
 
-                                                                                                                                                                                                                                                                                                                        begin = begin.next;
-                                                                                                                                                                                                                                                                                                                                    c = c.next;
-                                                                                                                                                                                                                                                                                                                                            }
+        while(curr != null) {
 
-                                                                                                                                                                                                                                                                                                                                                    return true;
-                                                                                                                                                                                                                                                                                                                                                        }
+            count ++;
+            curr = curr.next;
+        }
+        return (count);
+    }
 
-                                                                                                                                                                                                                                                                                                                                                            public int mid(ListNode head) {
+    public ListNode node(ListNode head, int count) {
 
-                                                                                                                                                                                                                                                                                                                                                                    int count = 0;
-                                                                                                                                                                                                                                                                                                                                                                            ListNode curr = head;
+         int num = 1;
+         ListNode curr = head;
+         while(num < count) {
+             
+             curr = curr.next;
+             num ++;
+         }
 
-                                                                                                                                                                                                                                                                                                                                                                                    while (curr != null) {
-                                                                                                                                                                                                                                                                                                                                                                                                count++;
-                                                                                                                                                                                                                                                                                                                                                                                                            curr = curr.next;
-                                                                                                                                                                                                                                                                                                                                                                                                                    }
-
-                                                                                                                                                                                                                                                                                                                                                                                                                            return count;
-                                                                                                                                                                                                                                                                                                                                                                                                                                }
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                    public ListNode node(ListNode head, int count) {
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                            int num = 1;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                    ListNode curr = head;
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                            while (num < count) {
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                        curr = curr.next;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    num++;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            }
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    return curr;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        }
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+         return curr;
+    }
 }
