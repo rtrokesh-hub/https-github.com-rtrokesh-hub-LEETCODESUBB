@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/rtrokesh-hub/https-github.com-rtrokesh-hub-LEETCODESUBB/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
